@@ -1,16 +1,58 @@
-## Hi there 👋
+Hi, I'm Tanmay Upadhayay 
 
-<!--
-**tanmayupadhayay/tanmayupadhayay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | SRM Institute of Science and Technology
 
-Here are some ideas to get you started:
+I'm a passionate Computer Science student who enjoys solving problems, writing clean code, and building projects. I believe in learning by creating and improving a little every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🚀 Currently Learning
+
+- ☕ Java
+- 🐍 Python
+- 📚 Data Structures & Algorithms
+- 🌐 Web Development
+- 🔧 Git & GitHub
+
+---
+
+🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,git,github,vscode" />
+</p>
+
+---
+
+ 📌 Goals for 2026
+
+- ✅ Solve 300+ DSA problems
+- ✅ Build 10+ real-world projects
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+
+---
+
+ 📈 GitHub Journey
+
+- 📂 Building projects consistently
+- 📖 Learning new technologies
+- 🚀 Sharing my coding journey
+
+---
+
+💬 Quote I Believe In
+
+> "Consistency beats intensity."
+
+---
+
+🤝 Connect With Me
+
+- 💼 LinkedIn: linkedin.com/in/tanmay-upadhayay-62961b380
+- 📧 Email: utanmay88@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey.
+
