@@ -29,7 +29,7 @@ I'm a passionate Computer Science student who enjoys solving problems, writing c
 - ✅ Solve 300+ DSA problems
 - ✅ Build 10+ real-world projects
 - ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
+- ✅Build strong Java+DSA skills and create projects that prepare me for upcoming challenges
 
 ---
 
